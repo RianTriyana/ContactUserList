@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Contact User List
 
 A new Flutter Random Users Details using randomuser.me api
