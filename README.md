@@ -11,7 +11,7 @@ It is an Random users details with some cool UI, Details of users are fetched fr
 
 ### Screenshots
 
-<img src="/screenshots/1.png" height="300em" /> <img src="/screenshots/2.png" height="300em" /> <img src="/screenshots/3.png" height="300em" /> <img src="/screenshots/4.png" height="300em" /><br>
+<img src="/screenshots/screenshoot1.jpeg" height="300em" /> <img src="/screenshots/screenshoot2.jpeg" height="300em" /> <img src="/screenshots/screenshoot3.jpeg" height="300em" /> <img src="/screenshots/screenshoot4.jpeg" height="300em" /><br>
 ### GIF
 
 =======
