@@ -1,0 +1,4 @@
+#Fri Jul 12 00:17:42 ICT 2019
+base.0=C\:\\Users\\rian.triyana\\Downloads\\Compressed\\random-users-details-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

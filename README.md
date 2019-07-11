@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Random Users 
 
 A new Flutter Random Users Details using randomuser.me api.
@@ -56,3 +57,6 @@ This Project is implemented in `android` `9.0` and `8.0` in `Pixel 2` and `Redmi
 ## Facing Any Problem or need any Help?
 Write me in [issues](https://github.com/bharatagsrwal/random-users-details/issues) section. I will try solve your issue within 10-12 hours.
 ### Keep Fluttering.
+=======
+# ContactUserList
+>>>>>>> 995a2338432f33b5ada22d21b59b776aaf49ae09
